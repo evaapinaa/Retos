@@ -12,7 +12,7 @@
 
 using namespace std;
 
-const int N = 27;
+const int N = 26;
 typedef string abecedario[N]; 
 
 int main() {
